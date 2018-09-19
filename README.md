@@ -1,5 +1,5 @@
 This is my first readme.
 
 ## Contributors
-
-- [@abolishme](https://githib.com/abolishme)
+- [@kamdynyc](https://github.com/kamdynyc)
+- [@abolishme](https://github.com/abolishme)
