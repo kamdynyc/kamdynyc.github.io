@@ -5,3 +5,4 @@ This is my first readme. I plan to make my own website here. I've never done thi
 - [@abolishme](https://github.com/abolishme)
 ## Notes
 - Added a theme to the site on 10.17
+- Added additional context to commit changes
